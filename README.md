@@ -10,3 +10,12 @@
   NEXT_PUBLIC_SUPABASE_URL=Your URL
   NEXT_PUBLIC_SUPABASE_ANON_KEY=Your key
   ```
+## Run the application
+```
+Install the modules:
+npm install
+```
+
+## Run the development server:
+```npm run dev
+```
