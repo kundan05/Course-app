@@ -1,3 +1,7 @@
+## Live:
+```
+https://course-app-taupe.vercel.app/
+```
 ## Tech Stack:
 * Next.js
 * Supabase
