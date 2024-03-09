@@ -1,7 +1,5 @@
 ## Live:
-```
-https://course-app-taupe.vercel.app/
-```
+-> https://course-app-taupe.vercel.app/
 ## Tech Stack:
 * Next.js
 * Supabase
